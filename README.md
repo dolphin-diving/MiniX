@@ -1,0 +1,2 @@
+# MiniX
+cross platform framework
